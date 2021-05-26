@@ -23,8 +23,8 @@ The generated files are:
 
 - `ca-cert.pem`: the public key of the CA.
 - `ca-key.pem`: the private key of the CA.
-- `server-key.pem` the private key of the server.
-- `server-cert-req.pem`: the request of ther server for the CA to sign.
+- `server-key.pem`: the private key of the server.
+- `server-req.pem`: the request of ther server for the CA to sign.
 - `server-cert.pem`: the public key of the server.
 - `ca-cert.srl`: the serial number of the signed request.
 
